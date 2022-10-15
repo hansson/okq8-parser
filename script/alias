@@ -1,0 +1,1 @@
+alias okq8="java -jar /bin/okq8.jar < /home/user/transaktioner.csv > output ; code output"
